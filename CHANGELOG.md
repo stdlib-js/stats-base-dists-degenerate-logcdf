@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-03)
+## Unreleased (2025-02-08)
+
+<section class="features">
+
+### Features
+
+-   [`f9789d4`](https://github.com/stdlib-js/stdlib/commit/f9789d46cf8f045048c416e7c420f96b1bb45141) - add C implementation for `stats/base/dists/degenerate/logcdf` [(#4387)](https://github.com/stdlib-js/stdlib/pull/4387)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3537](https://github.com/stdlib-js/stdlib/issues/3537)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`f9789d4`](https://github.com/stdlib-js/stdlib/commit/f9789d46cf8f045048c416e7c420f96b1bb45141) - **feat:** add C implementation for `stats/base/dists/degenerate/logcdf` [(#4387)](https://github.com/stdlib-js/stdlib/pull/4387) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`1fc3918`](https://github.com/stdlib-js/stdlib/commit/1fc3918810a556d2593f4ec8a0764dce88a519fc) - **bench:** refactor random number generation in `stats/base/dists/degenerate` [(#4862)](https://github.com/stdlib-js/stdlib/pull/4862) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
