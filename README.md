@@ -65,13 +65,13 @@ where `µ` is the constant value of the distribution.
 ## Usage
 
 ```javascript
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logcdf@esm/index.mjs';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logcdf@v0.3.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logcdf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logcdf@v0.3.0-esm/index.mjs';
 ```
 
 #### logcdf( x, mu )
@@ -121,7 +121,7 @@ y = mylogcdf( 8.0 );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logcdf@esm/index.mjs';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logcdf@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
